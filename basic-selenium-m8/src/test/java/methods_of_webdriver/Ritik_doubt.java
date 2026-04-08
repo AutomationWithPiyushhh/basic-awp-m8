@@ -8,7 +8,7 @@ public class Ritik_doubt {
 	public static void main(String[] args) throws InterruptedException {
 		WebDriver driver = new ChromeDriver();
 		
-		driver.get("https://www.facebook.com/");
+		driver.get("www.facebook.com");
 		
 		Thread.sleep(2000);
 		
